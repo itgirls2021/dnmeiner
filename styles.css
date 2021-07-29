@@ -1,7 +1,14 @@
 body {
     color: darkslategray;
     background-color: lavenderblush;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-h1 {color: white; background-color: rgb(58, 2, 58);}
-h2 {color: midnightblue;}
+h1 {
+    color: white; background-color: rgb(58, 2, 58);
+    font-family: 'Merriweather Sans', sans-serif;
+}
+h2 {
+    color: midnightblue;
+    font-family: 'Merriweather Sans', sans-serif;
+}
 a {color: midnightblue;}
