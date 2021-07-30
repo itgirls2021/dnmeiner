@@ -17,4 +17,4 @@ nav {background-color: dimgrey;}
 nav a {color: midnightblue;}
 a {color: midnightblue;}
 
-nav a {background-color: palevioletred;}
+nav a:hover {background-color: palevioletred;}
