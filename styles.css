@@ -18,3 +18,9 @@ nav a {color: midnightblue;}
 a {color: midnightblue;}
 
 nav a:hover {background-color: palevioletred;}
+
+nav {
+    padding: 10px;
+    margin-bottom: 30px;
+    background-color: dimgrey;
+}
